@@ -126,7 +126,6 @@ class CreateArtists < ActiveRecord::Migration[4.2]
 end
 
 ```
-
 From [the Active Record Migrations RailsGuide][change-method]:
 
 > The change method is the primary way of writing migrations. It works for the
